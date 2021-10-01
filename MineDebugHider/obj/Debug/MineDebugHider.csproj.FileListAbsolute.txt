@@ -1,0 +1,10 @@
+C:\Users\ezzal\source\repos\MineDebugHider\MineDebugHider\bin\Debug\MineDebugHider.exe.config
+C:\Users\ezzal\source\repos\MineDebugHider\MineDebugHider\bin\Debug\MineDebugHider.exe
+C:\Users\ezzal\source\repos\MineDebugHider\MineDebugHider\bin\Debug\MineDebugHider.pdb
+C:\Users\ezzal\source\repos\MineDebugHider\MineDebugHider\obj\Debug\MineDebugHider.Main.resources
+C:\Users\ezzal\source\repos\MineDebugHider\MineDebugHider\obj\Debug\MineDebugHider.Properties.Resources.resources
+C:\Users\ezzal\source\repos\MineDebugHider\MineDebugHider\obj\Debug\MineDebugHider.csproj.GenerateResource.cache
+C:\Users\ezzal\source\repos\MineDebugHider\MineDebugHider\obj\Debug\MineDebugHider.csproj.CoreCompileInputs.cache
+C:\Users\ezzal\source\repos\MineDebugHider\MineDebugHider\obj\Debug\MineDebugHider.exe
+C:\Users\ezzal\source\repos\MineDebugHider\MineDebugHider\obj\Debug\MineDebugHider.pdb
+C:\Users\ezzal\source\repos\MineDebugHider\MineDebugHider\obj\Debug\MineDebugHider.csproj.AssemblyReference.cache
