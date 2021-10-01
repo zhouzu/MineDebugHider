@@ -1,5 +1,5 @@
 # MineDebugHider
-Anti Anti-Debug Tool Made in C#, it's currently supports 32-bit processes only.
+Anti Anti-Debug Tool Made in C#, it's currently supports 32-bit processes only, and it can support your malware analysis, etc...
 # Features
 Hooking IsDebuggerPresent
 
